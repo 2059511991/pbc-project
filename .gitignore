@@ -1,0 +1,5 @@
+# 嘉立创EDA备份、临时文件
+*.backup
+*.bak
+*.tmp
+*.log
